@@ -1,0 +1,8 @@
+README.md
+log_archive.py
+pyproject.toml
+log_archive.egg-info/PKG-INFO
+log_archive.egg-info/SOURCES.txt
+log_archive.egg-info/dependency_links.txt
+log_archive.egg-info/entry_points.txt
+log_archive.egg-info/top_level.txt

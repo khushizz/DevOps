@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "log-archive"
+version = "1.0.0"
+description = "A CLI tool to archive and compress log files"
+
+[tool.setuptools]
+py-modules = ["log_archive"]
+
+[project.scripts]
+log-archive = "log_archive:main"

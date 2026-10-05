@@ -1,0 +1,2 @@
+[console_scripts]
+log-archive = log_archive:main
